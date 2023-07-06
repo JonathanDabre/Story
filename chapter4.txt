@@ -1,0 +1,6 @@
+Hey I'm on main branch, there are two branches now lets see what happens? 
+Ig this is first change in main after creating another branch.
+Ig we are also about to test merge. Let's see what happens. 
+But what if changes in same text file then after merge what will be the result?
+here we created a different file so the scenario becomes simple after merge.
+But what if changes existing files?
